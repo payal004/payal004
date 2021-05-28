@@ -1,6 +1,6 @@
 ### Hi ,this is Payal ! 👋
 
-<!--
+
 **payal004/payal004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a third year Computer Science student at JECRC University with a some history of working in the field of web development .My field of interest's are web by profession and cooking by passion.
@@ -16,6 +16,5 @@ I am a third year Computer Science student at JECRC University with a some histo
 
 [Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 
-- 😄 Pronouns:
-- ⚡ Fun fact:
--->
+
+ ![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
