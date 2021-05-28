@@ -12,9 +12,8 @@ I am a third year Computer Science student at JECRC University with a some histo
 2.Backend development using php.
 3.Solving some questions in C++
  
-- 📫 How to reach me: ...
-
-[Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+- 📫 How to reach me: ..
+(https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 
 
  ![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
