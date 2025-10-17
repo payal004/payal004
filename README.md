@@ -2,8 +2,13 @@
 
 💻 **New Web Developer 
 
-Learnign to build web applications and learning new technologies.  
-Let’s connect and collaborate on creative projects! 🚀  
+Learnign to build web applications and learning new technologies.
+
+Let’s connect and collaborate on creative projects! 🚀
+github: [payal004]          # if you join GitHub Sponsors
+patreon: payal004           # if you have a Patreon account
+ko_fi: payal004             # or Buy Me a Coffee / Ko-fi link
+custom: ["https://www.buymeacoffee.com/payal004"]
 
 ---
 
