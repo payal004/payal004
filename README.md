@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Payal Agarwal  
+## Hi there 👋 I'm Payal 
 
-💻 **Web Developer | Tech Enthusiast | 
+💻 **New Web Developer 
 
-I’m passionate about building user-friendly web applications and learning new technologies.  
+Learnign to build web applications and learning new technologies.  
 Let’s connect and collaborate on creative projects! 🚀  
 
 ---
@@ -39,4 +39,4 @@ Let’s connect and collaborate on creative projects! 🚀
 ---
 
 ### 💬 Fun Fact  
-> “The best
+> “Boring + Super excited creature :)" 
